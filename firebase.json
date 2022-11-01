@@ -2,7 +2,7 @@
   "hosting": {
     "redirects": [
       {
-          "source": "/",
+          "source": "/index.html",
           "destination": "/homepage.html",
           "type": 301
       }
